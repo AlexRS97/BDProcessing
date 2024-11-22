@@ -1,6 +1,8 @@
 # BDProcessing
 Proyecto BDProcessing
 
+### NOTA ---  EL EJERCICIO 5 VA EN LA PARTE 2 DEL EXAMEN YA QUE POR ERRORES DE JAVA LO TUVE QUE HACER EN OTRO PROYECTO DIREFENTE POR ERRORES DE COMPATIBILIDAD DE WINDOWS
+
 Ejercicio 1: Crear un DataFrame y realizar operaciones básicas
    * Pregunta: Crea un DataFrame a partir de una secuencia de tuplas que contenga información sobre
    * estudiantes (nombre, edad, calificación).
