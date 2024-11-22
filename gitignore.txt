@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# sbt specific
+app/dist/*
+app/target/
+app/lib_managed/
+app/src_managed/
+app/project/boot/
+app/project/plugins/project/
+app/project/local-plugins.sbt
+app/.history
+app/.ensime
+app/.ensime_cache/
+app/.sbt-scripted/
+app/local.sbt
+
+# Bloop
+app/.bsp
+
+# VS Code
+app/.vscode/
+
+# Metals
+app/.bloop/
+app/.metals/
+app/metals.sbt
+
+# IDEA
+.idea
+.idea_modules
+/.worksheet/
